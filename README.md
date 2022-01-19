@@ -1,6 +1,6 @@
 # Daily Journal
 
-> Under Construction ... Daily Journal Blog to add Posts
+> Under Construction ... Daily Journal and Blog.
 
 ### [Visit the page](https://herokuapp.com/)
 
@@ -16,5 +16,5 @@
 ## Stack Used
 
 > HTML, CSS, JavaScript, Node.js, express.js,
-> MongoDB Atlas and Ejs(templating).
+> MongoDB(Atlas) and Ejs(templating).
 
